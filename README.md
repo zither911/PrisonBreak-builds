@@ -27,6 +27,10 @@ with a switch that turns every one of them off — if you can reach it.
 Get it wrong and they come for you. Get to somewhere you are allowed to be
 before they arrive, and you are just a prisoner in his cell.
 
+Switch the watchers off and they are no longer only blind — a dead camera and
+a grounded drone are a board each, and the two of them together, on your own
+bunk, are a charge. Put it on a door, or on the outside wall, and stand back.
+
 Then dig, or unlock, or blow your way out — and in the last ten prisons, down
 through a hatch into the service tunnels, past the beams, and up a ladder on the
 far side where something is waiting with its rotors running.
