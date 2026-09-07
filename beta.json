@@ -1,7 +1,7 @@
 {
   "message": "This test build is no longer available.",
   "builds": [
-    { "version": "0.72", "blocked": false }
+    { "version": "0.73", "blocked": false }
   ],
   "machines": []
 }
